@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,TF1 HD
+http://udp/225.1.1.1:1111
+#EXTINF:0, #EXTINF:-1,France 2 HD
+http://udp/225.1.1.2:1111
+#EXTINF:0, #EXTINF:-1,F3 Centre HD
+http://udp/225.1.1.3:1111
+#EXTINF:0, #EXTINF:-1,France 5 HD
+http://udp/225.1.1.5:1111
+#EXTINF:0, #EXTINF:-1,M6 HD
+http://udp/225.1.1.6:1111
+#EXTINF:0, #EXTINF:-1,Arte HD
+http://udp/225.1.1.7:1111
+#EXTINF:0, #EXTINF:-1,W9 HD
+http://udp/225.1.1.9:1111
+#EXTINF:0, #EXTINF:-1,D8 HD
+http://udp/225.1.1.8:1111
+#EXTINF:0, #EXTINF:-1,TMC HD
+http://udp/225.1.1.10:1111
+#EXTINF:0, #EXTINF:-1,NT1 HD
+http://udp/225.1.1.11:1111
+#EXTINF:0, #EXTINF:-1,NRJ12 HD
+http://udp/225.1.1.12:1111
+#EXTINF:0, #EXTINF:-1,LCP HD
+http://udp/225.1.1.13:1111
+#EXTINF:0, #EXTINF:-1,France 4 HD
+http://udp/225.1.1.14:1111
+#EXTINF:0, #EXTINF:-1,BFM TV HD
+http://udp/225.1.1.15:1111
+#EXTINF:0, #EXTINF:-1,i>TELE HD
+http://udp/225.1.1.16:1111
+#EXTINF:0, #EXTINF:-1,D17 HD
+http://udp/225.1.1.17:1111
+#EXTINF:0, #EXTINF:-1,Gulli HD
+http://udp/225.1.1.18:1111
+#EXTINF:0, #EXTINF:-1,France ™ HD
+http://udp/225.1.1.19:1111
+#EXTINF:0, #EXTINF:-1,HD1
+http://udp/225.1.1.20:1111
+#EXTINF:0, #EXTINF:-1,L Equipe 21 HD
+http://udp/225.1.1.21:1111
+#EXTINF:0, #EXTINF:-1,6ter HD
+http://udp/225.1.1.22:1111
+#EXTINF:0, #EXTINF:-1,NUMERO 23 HD
+http://udp/225.1.1.23:1111
+#EXTINF:0, #EXTINF:-1,ChOrie 25 HD
+http://udp/225.1.1.25:1111
+#EXTINF:0, #EXTINF:-1,RMC DOcouverte HD
+http://udp/225.1.1.24:1111
+#EXTINF:0, #EXTINF:-1,LCI HD
+http://udp/225.1.1.26:1111
+#EXTINF:0, #EXTINF:-1,N/A
+http://udp/225.1.1.59:1111
+#EXTINF:0, #EXTINF:-1,AlJazeera
+http://udp/225.1.1.101:1111
+#EXTINF:0, #EXTINF:-1,Arirang
+http://udp/225.1.1.102:1111
+#EXTINF:0, #EXTINF:-1,Clip Punto CU
+http://udp/225.1.1.103:1111
+#EXTINF:0, #EXTINF:-1,Russia Today
+http://udp/225.1.1.104:1111
+#EXTINF:0, #EXTINF:-1,NHK World TV
+http://udp/225.1.1.106:1111
+#EXTINF:0, #EXTINF:-1,TV5 Monde Europe
+http://udp/225.1.1.117:1111
+#EXTINF:0, #EXTINF:-1,5 Arabic Channel
+http://udp/225.1.1.180:1111
+#EXTINF:0, #EXTINF:-1,N/A
+http://udp/225.1.1.28:1111
+#EXTINF:-1,French_TV ///
+http://live/4197/4197/807.ts
+#EXTINF:-1,fr-CANAL
+http://live/4197/4197/64.ts
+#EXTINF:-1,fr-CANAL_CINEMA
+http://live/4197/4197/65.ts
+#EXTINF:-1,fr-CANAL_DECALE
+http://live/4197/4197/525.ts
+#EXTINF:-1,fr-CANAL_FAMILY
+http://live/4197/4197/524.ts
+#EXTINF:-1,FR-Canal-SERIES
+http://live/4197/4197/761.ts
+#EXTINF:-1,FR-Canal Comedie
+http://live/4197/4197/2188.ts
+#EXTINF:-1,FR-OCS-MAX
+http://live/4197/4197/1546.ts
+#EXTINF:-1,FR BOOMERANG
+http://live/kalan/kalan/4979.ts
+#EXTINF:-1,FR BOING HD
+http://live/kalan/kalan/4980.ts
+#EXTINF:-1,FR BFMTV HD
+http://live/kalan/kalan/4981.ts
+#EXTINF:-1,FR BET FRANCE
+http://live/kalan/kalan/4982.ts
+#EXTINF:-1,FR BET liste des canaux iptv France m3u
+http://live/kalan/kalan/4983.ts
+#EXTINF:-1,FR BERBERE TV
+http://live/kalan/kalan/4984.ts
+#EXTINF:-1,FR BERBERE MUSIC
+http://live/kalan/kalan/4985.ts
+#EXTINF:-1,FR BERBERE JEUNESSE
+http://live/kalan/kalan/4986.ts
+#EXTINF:-1,FR BEINSPORT 2 HD
+http://live/kalan/kalan/4987.ts
+#EXTINF:-1,FR BEINSPORT 1 HD
+http://live/kalan/kalan/4988.ts
+#EXTINF:-1,FR BEIN SPORTS MAX 8
+http://live/kalan/kalan/4989.ts
+#EXTINF:-1,FR BEIN SPORTS MAX 5
+http://live/kalan/kalan/4990.ts
+#EXTINF:-1,FR BEIN SPORTS MAX 4
+http://live/kalan/kalan/4991.ts
+#EXTINF:-1,FR BEIN SPORTS MAX 10
+http://live/kalan/kalan/4992.ts
+#EXTINF:-1,FR AXN HD
+http://live/kalan/kalan/4993.ts
